@@ -1,5 +1,8 @@
 # personalize dashboard for unused tablets
 
+## Current Mockup
+![initial mockup][mockup]
+
 ## User Stories
 1. Users can see local time
 2. User can set alarm clock time and date
@@ -18,3 +21,5 @@ user
 Requirement:
 -server API to provide local news and weather forecast based on location
 -need to research spotify API. Might need user authentication for those with spotify access. Alternatives?
+
+[mockup]: https://github.com/quangthuyhoang/dashboard-tab-pwa/blob/master/UI%20Mockup/main-dashboard-1.PNG
